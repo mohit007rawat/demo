@@ -1,0 +1,4 @@
+[01-Sep-2021 15:18:05 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/amanigz1/public_html/demo-old/CI/application/views/index.php on line 6
+[01-Sep-2021 15:34:12 UTC] PHP Fatal error:  Call to a member function view() on null in /home/amanigz1/public_html/demo-old/CI/application/controllers/Email.php on line 47
+[01-Sep-2021 16:13:59 UTC] PHP Fatal error:  Call to a member function library() on null in /home/amanigz1/public_html/demo-old/CI/application/controllers/Email.php on line 24
+[02-Sep-2021 17:53:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amanigz1/public_html/demo-old/CI/application/controllers/Email.php on line 119
